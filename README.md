@@ -31,25 +31,25 @@ Radiant Emotions AI aims to bridge this gap by creating an AI-powered emotional 
 
 ## 🏠 Homepage
 
-![homepage](screenshots/homepage.png)
+![homepage](Screenshots/homepage.png)
 
 ---
 
 ## 🤖 AI Chatbot
 
-![AIchatbot](screenshots/AIchatbot.png)
+![AIchatbot](Screenshots/AIchatbot.png)
 
 ---
 
 ## 📊 Dashboard
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
 ## 💡 Suggestions System
 
-![Suggestions](screenshots/Suggestions.png)
+![Suggestions](Screenshots/Suggestions.png)
 
 ---
 
